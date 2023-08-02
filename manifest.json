@@ -1,0 +1,9 @@
+{
+  "name": "Super Reactions Unlocker",
+  "version": "1.9.3",
+  "description": "Unlock up to 5 super reactions per week.",
+  "author": "BMF",
+  "source": "https://raw.githubusercontent.com/yourusername/super-reactions-unlocker/main/plugin.js",
+  "updateUrl": "https://raw.githubusercontent.com/yourusername/super-reactions-unlocker/main/manifest.json",
+  "dependencies": []
+}
